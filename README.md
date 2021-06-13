@@ -2,7 +2,7 @@
 
 On page rating is:
 
-- too mainstream (people are dump)
+- too mainstream (Idiocracy)
 - not transparent (imdb blackbox algorithm)
 - sometimes manually changed (imdb moderation)
 
